@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "cascadia-margin-lipids"
+version = "0.1.0"
+description = "data and code repository for archaeal lipid 13C measurements and relative abundance measurements"
+authors = ["Katherine Keller <katherinekeller@g.harvard.edu>", "Mark Baum <markmbaum@protonmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ipykernel = "^6.28.0"
+matplotlib = "^3.8.2"
+pandas = "^2.1.4"
+seaborn = "^0.13.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
