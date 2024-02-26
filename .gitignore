@@ -1,5 +1,7 @@
 **/.DS_Store
 arch
+*.nc
+*.json
 
 *.tmp
 
