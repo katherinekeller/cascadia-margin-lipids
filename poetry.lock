@@ -1753,4 +1753,4 @@ test = ["hypothesis", "packaging", "pytest", "pytest-cov"]
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.11,<3.12"
-content-hash = "0115bdf1abfc1b49cfdb4601d7cdae8e8d3dc95fd9eb502a11ebc1c6647ce4e7"
+content-hash = "7c845ee28ccd222ca961384f2459ef57a1159475e4312430b454b9e2eb4e8191"
